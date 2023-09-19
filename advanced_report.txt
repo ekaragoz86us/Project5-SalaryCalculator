@@ -1,0 +1,51 @@
+ID, Name, Level, State, MaritalStatus, NumChildren, RegWorkHours, OvertimeHours
+001, Mia Mitchell, L3, Texas, Single, 3, 50, 1
+002, Lily Clark, L2, Michigan, Married, 1, 32, 6
+003, Chloe Clark, L1, Michigan, Single, 0, 46, 20
+004, Isabella Brown, L2, Pennsylvania, Married, 3, 44, 11
+005, Eleanor Martinez, L6, Michigan, Married, 3, 39, 18
+006, Lily Hayes, L3, Ohio, Single, 1, 31, 18
+007, Samantha Hall, L2, Illinois, Single, 0, 38, 5
+008, Zoe Ross, L2, Illinois, Single, 3, 34, 17
+009, Penelope Morgan, L6, Pennsylvania, Single, 3, 45, 16
+010, Natalie Murphy, L6, Florida, Single, 1, 31, 10
+011, Hannah Gray, L5, North Carolina, Single, 3, 36, 12
+012, Lucy Martinez, L4, Pennsylvania, Married, 3, 42, 0
+013, Stella Morgan, L4, Georgia, Single, 1, 35, 1
+014, Grace Adams, L1, California, Married, 2, 44, 10
+015, Violet Carter, L4, Pennsylvania, Married, 1, 47, 14
+016, Sophia Flores, L8, California, Single, 2, 44, 20
+017, Chloe Davis, L6, New York, Married, 3, 44, 6
+018, Emma Parker, L1, Florida, Married, 3, 32, 5
+019, Lillian Baker, L2, Pennsylvania, Single, 0, 32, 0
+020, Violet Morgan, L8, Michigan, Married, 2, 44, 14
+021, Scarlett Scott, L4, New York, Married, 0, 35, 16
+022, Evelyn Clark, L4, Georgia, Married, 2, 47, 5
+023, Madison Reed, L8, New York, Married, 3, 31, 4
+024, Ava Collins, L8, Illinois, Married, 3, 37, 17
+025, Stella Gray, L4, Illinois, Married, 0, 35, 7
+026, Scarlett Miller, L1, Illinois, Single, 1, 35, 2
+027, Emily White, L5, California, Single, 3, 47, 16
+028, Charlotte Rivera, L6, Texas, Married, 0, 30, 10
+029, Taylor Campbell, L8, Georgia, Single, 2, 31, 13
+030, Leah Davis, L5, New York, Single, 0, 48, 12
+031, Olivia Taylor, L4, Michigan, Married, 0, 42, 9
+032, Eleanor Cooper, L7, New York, Married, 0, 43, 3
+033, Chloe Reed, L6, Illinois, Married, 2, 40, 17
+034, Abigail Rogers, L4, California, Single, 0, 47, 12
+035, Allison Johnson, L3, Michigan, Married, 2, 49, 9
+036, Zoey Wood, L6, Pennsylvania, Single, 1, 49, 17
+037, Grace Johnson, L8, Florida, Married, 1, 38, 15
+038, Zoe Wilson, L4, North Carolina, Single, 1, 34, 14
+039, Zoe Flores, L1, Michigan, Single, 2, 33, 11
+040, Sofia Clark, L8, Florida, Married, 3, 31, 9
+041, Grace Hill, L1, North Carolina, Married, 0, 46, 13
+042, Lucy Nelson, L5, Texas, Single, 0, 47, 2
+043, Aria Brown, L3, Texas, Single, 3, 45, 10
+044, Samantha Wilson, L4, New York, Single, 0, 45, 4
+045, Sofia Brown, L8, Ohio, Married, 2, 32, 0
+046, Harper Harris, L1, Florida, Single, 2, 42, 18
+047, Charlotte Reed, L3, Texas, Single, 0, 46, 7
+048, Samantha Carter, L4, Georgia, Married, 2, 44, 16
+049, Maya Mitchell, L1, North Carolina, Single, 3, 39, 12
+050, Hazel Smith, L2, Ohio, Single, 2, 36, 16
